@@ -1,0 +1,48 @@
+{
+  "parques": {
+   "apiversion":0.1,
+      "placesListParques":[
+    {
+      "placeId":0,
+      "placeName": "Parque Bicentenario",
+     
+          "latitude": 13.6901597,
+          "longitude": -89.2560366
+       
+      },
+    {
+      "placeId":1,
+      "placeName": "Parque Nacional El Imposible",
+     
+          "latitude": 13.8332158,
+          "longitude": -89.9368546
+          
+    },
+    {
+      "placeId":2,
+      "placeName": "Cerro El pital",
+      
+          "latitude": 14.3886102,
+          "longitude": -89.1347624
+          
+    },
+    {
+      "placeId":3,
+      "placeName": "Parque Nacional Montecristo",
+      
+          "latitude": 14.4365473,
+          "longitude": -89.3672018
+         
+    },
+    {
+      "placeId":4,
+      "placeName": "Parque de la familia",
+      
+          "latitude": 13.3381482,
+          "longitude": -87.8423292
+         
+    },
+    
+  ]
+  }
+}
